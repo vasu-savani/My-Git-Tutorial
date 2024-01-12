@@ -1,4 +1,3 @@
 # My-Git-Tutorial
-This is my first git  program
-<br>
-AUther - Vasu Savani
+# This is my first git  program
+# AUther - Vasu r 
